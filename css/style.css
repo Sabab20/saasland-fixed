@@ -1,0 +1,101 @@
+body{
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+}
+header{
+	background-color:#7f56f5;
+	color: white;
+	text-align: center;
+	margin: auto; 
+	margin-top: 0;
+	padding: 100px 100px;
+	
+}
+header h1{
+	font-size: 50px;
+	margin: 0;
+	padding: 50px 50px;
+
+}
+header p{margin: 0;
+	font-size: 20px;
+	line-height: 20px;
+}
+.box1{
+	margin: auto;
+	width: 1000px;
+	text-align: center;
+	padding: 20px 50px;
+box-sizing: border-box;
+overflow: hidden;
+}
+.content{padding: 50px 50px;
+	margin: 0;
+width: 50%;
+float: left;
+box-sizing: border-box;
+text-align: left;
+}
+.image{
+	padding:30px 15px;
+width: 50%;
+margin: 0;
+float: left;
+box-sizing: border-box;
+	}
+.image img{
+		max-width: 100%;
+		box-sizing: border-box;
+	}
+
+.box2{
+	margin: auto;
+	width: 1000px;
+	text-align: center;
+	padding: 20px 50px;
+box-sizing: border-box;
+overflow: hidden;
+}
+
+.box3{
+	
+	overflow: hidden;
+	margin: auto;
+	width: 1000px;
+	text-align: center;
+	padding: 20px 50px;
+box-sizing: border-box;
+}
+.box4{overflow: hidden;
+	margin: auto;
+	width: 1000px;
+	text-align: center;
+	padding: 20px 50px;
+box-sizing: border-box;
+}
+.box5{overflow: hidden;
+	margin: auto;
+	width: 1000px;
+	text-align: center;
+	padding:20px 50px;
+box-sizing: border-box;
+}
+
+
+.link{
+	margin-top: 20px;
+	padding: 15px 35px;
+	background-color:#7f56f5; 
+	color:white;
+	font-size: 20px;
+	text-decoration:none ;
+	box-sizing: border-box;
+	display: inline-block;
+	border-radius: 5px;
+}
+
+h2{
+	color: #572fca;
+}
+
+
